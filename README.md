@@ -1,1 +1,1 @@
-# text_classification_approaches
+This repository contains a notebook with data exploration, pre-processing and implementation of several popular text classification techniques, including CatBoost and TextCat. The dataset is a custom dataset fused from two data sources: Womens Clothing E-Commerce Reviews from kaggle and Amazon Clothing Reviews from SNAP.
